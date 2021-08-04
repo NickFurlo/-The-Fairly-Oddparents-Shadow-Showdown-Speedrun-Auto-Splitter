@@ -18,14 +18,14 @@ Inital Setup
   	7. In Auto-Split, check "Custom pause times".
   	8. In Auto-Split, select "histograms" for "Comparison Method".
   	9. In Auto-Split, click the "File" menu, then "save settings".
-  	10. Save your settings file in the same folder as AutoSplit.exe
+  	10. CLick "Browse" at the top and navigate to the folder you downloaded for your route and category. 
+  	11. Save your settings file in the same folder as AutoSplit.exe
 
 Startup Setup
 
-  	1. Click "Select Region" and select your game window. A little overscan is okay.
-  	2. Click "Align Region" and select the "Pixel Perfect Align Image.png"
-  	3. Click "Start Auto Splitter"
-  	4. Do a run!
+  	1. Click "Select Region" and select your game window. Try and make this as percise as you can. 
+  	2. Click "Start Auto Splitter"
+  	3. Do a run!
 
 Route Versions
 	
