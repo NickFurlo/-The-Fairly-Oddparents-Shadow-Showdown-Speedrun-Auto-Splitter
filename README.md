@@ -1,11 +1,15 @@
 # The Fairly Oddparents: Shadow Showdown Speedrun Auto-Splitter
 Overview
 
-	This repo is a collection of Images which will allow you to use [Auto-Split] (https://github.com/Toufool/Auto-Split) with FOPSS. This auto-slitter will atomatically split and pause during loads using global hotkeys in livesplit.
+	This repo is a collection of Images which will allow you to use [Auto-Split] (https://github.com/Toufool/Auto-Split) 
+	with FOPSS. This auto-slitter will atomatically split and pause during loads using global hotkeys in livesplit.
 
 	Inital setup will only need to be done once. Startup setup will need to be done every time Autp-Split is opened
 
 	Run starts after tutorial loading screen, splits are on the hub load screen, and end is the first frame of the end cutscene. 
+
+	If you would like to commission me to make an image base auto-splitter for your game, please email me at 
+	earllgrayspeedruns@gmail.com or DM me on discord. 
 
 Inital Setup
 
