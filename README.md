@@ -25,6 +25,8 @@ Inital Setup
   	10. CLick "Browse" at the top and navigate to the folder you downloaded for your route and category. 
   	11. Save your settings file in the same folder as AutoSplit.exe
 
+	If you are Auto-split is splitting early or late, please take a look at the Auto-Split-Editor I created. https://github.com/NickFurlo/Auto-Split-Editor
+
 Startup Setup
 
   	1. Click "Select Region" and select your game window. Try and make this as percise as you can. 
