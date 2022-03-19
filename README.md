@@ -25,7 +25,7 @@ Inital Setup
   	10. CLick "Browse" at the top and navigate to the folder you downloaded for your route and category. 
   	11. Save your settings file in the same folder as AutoSplit.exe
 
-	If you are Auto-split is splitting early or late, please take a look at the Auto-Split-Editor I created. https://github.com/NickFurlo/Auto-Split-Editor
+	If you are Auto-split is splitting early, late, or not at all on certain images please take a look at the Auto-Split-Editor I created. https://github.com/NickFurlo/Auto-Split-Editor
 
 Startup Setup
 
